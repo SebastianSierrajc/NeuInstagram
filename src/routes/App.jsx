@@ -7,7 +7,7 @@ const App = () => {
     return (
         <Router>
             <Routes>
-                <Route index path='/' element={<Profile />} />
+                <Route index path='/profile' element={<Profile />} />
                 <Route path='*' element={<NotFound />} />
             </Routes>
         </Router>
