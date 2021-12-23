@@ -9,7 +9,7 @@
     "dev": "webpack --mode development --env MODE=development",
     "build": "webpack --mode production --env MODE=production"
   },
-  "homepage": "https://sebastiansierrajc.github.io/NeuInstagram/",
+  "homepage": "https://neuinstagram.herokuapp.com/",
   "keywords": [
     "instagram",
     "react",
