@@ -1,5 +1,7 @@
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import Profile from '@pages/Profile'
+import NotFound from '@pages/NotFound'
 
 const App = () => {
     return (
